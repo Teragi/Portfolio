@@ -22,10 +22,11 @@ html {
 
 /*----HEADER----*/
 header {
-  background-image: url(Ressource/img/profil.jpg);
+  background-image: url(Ressource/css/img/espace.jpg);
   background-attachment: fixed;
   height: 500px;
 }
+
 .boutonHeader {
   display: inline-block;
   color: #fff;
@@ -217,7 +218,7 @@ hr {
 /*----SECTION COMPETENCES----*/
 .competence {
   margin-top: 1200px;
-  background-image: url(Ressource/img/fond.jpg);
+  background-image: url(Ressource/css/img/fond.jpg);
   background-attachment: fixed;
   height: 700px;
   color: #fff;
