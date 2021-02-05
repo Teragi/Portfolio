@@ -22,6 +22,7 @@ html {
 
 /*----HEADER----*/
 header {
+  background-image: linear-gradient( 135deg, #97ABFF 10%, #004365 100%);
   background-attachment: fixed;
   height: 500px;
 }
@@ -216,6 +217,7 @@ hr {
 }
 /*----SECTION COMPETENCES----*/
 .competence {
+  background-image: linear-gradient( 135deg, #52E5E7 10%, #004365 100%);
   margin-top: 1200px;
   background-attachment: fixed;
   height: 700px;
