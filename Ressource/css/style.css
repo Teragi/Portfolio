@@ -22,7 +22,6 @@ html {
 
 /*----HEADER----*/
 header {
-  background-image: url(Ressource/css/img/espace.jpg);
   background-attachment: fixed;
   height: 500px;
 }
@@ -218,7 +217,6 @@ hr {
 /*----SECTION COMPETENCES----*/
 .competence {
   margin-top: 1200px;
-  background-image: url(Ressource/css/img/fond.jpg);
   background-attachment: fixed;
   height: 700px;
   color: #fff;
